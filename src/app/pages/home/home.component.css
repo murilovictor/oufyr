@@ -1,0 +1,19 @@
+.card {
+    max-width: 400px;
+    max-height: 600px;
+    display: flex;
+    box-sizing:border-box;
+    align-items: center;
+
+  }
+
+
+.mdl-card__actions {
+    display: flex;
+    box-sizing:border-box;
+    align-items: center;
+}
+.mdl-card__actions > .mdl-button--icon {
+    margin-right: 3px;
+    margin-left: 3px;
+}
